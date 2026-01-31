@@ -1,0 +1,12 @@
+name: custom_lint_rules
+description: Custom lint rules — ban ScaffoldMessenger, enforce RouteSettings for sheets/dialogs/navigation.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  analyzer: ^8.0.0
+  analyzer_plugin: ^0.13.0
+  custom_lint_builder: ^0.8.1
