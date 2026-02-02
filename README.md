@@ -33,4 +33,4 @@ dart run custom_lint
 - **`packages/custom_lint_rules/`** — Custom lint plugin: `no_scaffold_messenger` and `require_route_settings` rules.
 - **`analysis_options.yaml`** — Enables the `custom_lint` plugin and lists the rules.
 
-Related: *Flutter – Custom Lint: Enforcing API Restrictions and Project Conventions* (Medium article).
+Related: [Flutter – Custom Lint: Enforcing API Restrictions and Project Conventions](https://hasankarli.medium.com/flutter-custom-lint-enforcing-api-restrictions-and-project-conventions-36667c6d76b5)
